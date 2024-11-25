@@ -20,11 +20,12 @@ This project is designed to test your GitHub proficiency while implementing basi
 ---
 
 ## 🗂️ Project Structure
+```
 project/
 ├── index.html
 ├── style.css
 ├── app.js
-
+```
 ---
 
 ## ⚙️ Setup Instructions
