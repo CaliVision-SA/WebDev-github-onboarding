@@ -22,7 +22,6 @@ This project is designed to test your GitHub proficiency while implementing basi
 - 🖊️ Add user details (name and description) through a form.
 - 🔄 Dynamically update the user list on the page.
 - 🗂️ Store user information in `localStorage` to retain data even after page refresh.
-- 🖥️ Clean and responsive user interface.
 
 ---
 
@@ -43,9 +42,6 @@ Fork this repository and clone it to your local machine:
 git clone https://github.com/CaliVision-SA/WebDev-github-onboarding.git
 ```
 ### 2️⃣ Create a Branch
-Create a new branch to work on:
-
-git checkout -b <yourname_feature-branch>
 
 ### 3️⃣ Open the Project
 Open the project in your preferred code editor (e.g., VS Code).
@@ -91,7 +87,7 @@ The JavaScript handles:
 After completing your task, stage and commit your changes:
 ```
 git add index.html style.css app.js
-git commit -m "Added interactive user info app with localStorage"
+git commit -m "Your Git message"
 ```
 
 ## 2️⃣ Push Your Branch
