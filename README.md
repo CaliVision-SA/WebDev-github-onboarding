@@ -1,4 +1,13 @@
 # 🌐WebDev-github-onboarding
+This exercise is designed to test your GitHub proficiency and ability to work on a collaborative project, not advanced coding skills. You'll create a simple interactive web application using HTML, CSS, and JavaScript, and demonstrate your ability to work with Git and GitHub effectively mainly with:
+
+while demonstrating your ability to:
+
+1. Clone a repository.
+2. Create and work on a branch.
+3. Commit and push your changes.
+4. Create a pull request for code review.
+
 # 📝 User Info Web App
 
 ## 📖 Project Overview
