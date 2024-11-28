@@ -1,0 +1,5 @@
+1. Name and Description and be able to keep on localStorage , localStorage API
+2. styling using css and lil bit of tailwind css for fancy stlying  adding the modal if the user is not entered their details
+3. the modal checks if the user entered requiered details and display a modal with tinted backgroud 
+4. it checks if there is an empty string 
+5. JSON.stringfy converts JSON saved data into Strings so that it can be redeable to the end user 
